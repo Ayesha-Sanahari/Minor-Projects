@@ -1,0 +1,1 @@
+cat *.fasta >> combined.fasta 

@@ -1,0 +1,5 @@
+NM_000188.3
+length of amino acid :1201
+molecular weight of amino acid :128469.92550000083
+alanine percentage :0.06538796861377506
+glycine percentage :0.06800348735832606
